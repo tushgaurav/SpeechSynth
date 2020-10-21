@@ -1,4 +1,7 @@
+# Don't track content of these folders
 idea/
-__pycache__/
-*.pyc
 venv/
+__pycache__/
+
+# Don't track files with this extention
+*.pyc
